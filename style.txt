@@ -1,0 +1,2 @@
+John / ignore_case {[REDACTED]}
+e {a}

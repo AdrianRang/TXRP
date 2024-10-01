@@ -1,0 +1,8 @@
+This is a test all 'e's will be converted to 'a's and the name John will be [REDACTED]
+
+John
+e 
+e 
+John
+
+John bought an elephant at the store today. He named it john junior, john junior loves John and his pet turtle john junior senior.
